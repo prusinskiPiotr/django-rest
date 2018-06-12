@@ -1,0 +1,8 @@
+env/
+*.db
+*.pyc
+.vscode/
+db.sqlite3
+*/local_settings.py
+.idea/*
+public/*
